@@ -62,36 +62,31 @@ lalu saya membuat sebuah looping
             data.keluar()
             break         
 
-# tampilan visual studio code
-
-![img](gambar/vscode.png)
-
-
 # output program
 
 ini adalah output apabila memilih tambah(1)
 
-![img](gambar/tambah.png)
+<img width="201" alt="ri 1" src="https://user-images.githubusercontent.com/115542704/206483140-39549453-0508-4cce-bbb3-d7f73d897270.png">
 
 ini adalah output apabila memilih ubah(2)
 
-![img](gambar/ubah.png)
+<img width="204" alt="ri 2" src="https://user-images.githubusercontent.com/115542704/206483199-e31314e6-d2ba-4110-9666-f82ce5f923c3.png">
 
 ini adalah output apabila memilih untuk tambah lagi
 
-![img](gambar/tambah1.png)
+<img width="203" alt="ri 3" src="https://user-images.githubusercontent.com/115542704/206483359-405e5d49-55bc-4332-a71b-0d0d3dc5cd1a.png">
 
 ini adalah output apabila memilih hapus(3)
 
-![img](gambar/hapus.png)
+<img width="197" alt="ri 4" src="https://user-images.githubusercontent.com/115542704/206483433-e252c767-a030-45ed-9ce5-18db0ecc43d7.png">
 
 ini adalah output apabila memilih lihat (4)
 
-![img](gambar/lihat.png)
+<img width="506" alt="ri 5" src="https://user-images.githubusercontent.com/115542704/206483485-44b5bb66-ffc6-4748-9f13-540e6a868a07.png">
 
 ni adalah output apabila memilih else
 
-![img](gambar/ss1.png)
+<img width="221" alt="ri 6" src="https://user-images.githubusercontent.com/115542704/206483557-8eb6066b-c456-4244-b1e3-b9154bfb2302.png">
 
 # SEKIAN TERIMAKASIH
 
