@@ -93,5 +93,5 @@ ni adalah output apabila memilih else
 
 ![img](gambar/ss1.png)
 
-        ======TERIMAKASIH======
+# SEKIAN TERIMAKASIH
 
