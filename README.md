@@ -3,19 +3,19 @@
 # Kelas: TI.22.A3
 
 ## PERTEMUAN 12
-### SOAL
+## SOAL
 
 ![soal](https://user-images.githubusercontent.com/115542704/206460646-4c089e2d-9d9c-427b-a326-d43c633e78d6.png)
 
-# diagram class
+## diagram class
 
 ![diagramClass](https://user-images.githubusercontent.com/115542704/206462308-ab57022f-da40-422a-9e52-1c59252d2123.png)
 
-# flowchart
+## flowchart
 
 ![flowchart (3)](https://user-images.githubusercontent.com/115542704/206462353-41fd2d95-2329-4f92-9403-e679c5bc1784.png)
 
-# program
+## program
 
 pertama saya membuat sebuah class daftar nilai
 
