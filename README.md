@@ -7,4 +7,4 @@
 
 ![soal](https://user-images.githubusercontent.com/115542704/206460646-4c089e2d-9d9c-427b-a326-d43c633e78d6.png)
 
-### JAWAB
+
