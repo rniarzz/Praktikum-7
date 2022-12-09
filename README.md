@@ -27,16 +27,14 @@ kemudian membuat sebuah class daftar nilai
 class daftarNilai()
 ```
 
-Lalu saya melanjutkan dengan membuat method method fungsinya
-```python
+Lalu saya melanjutkan dengan membuat method method fungsinya sebagai berikut
+```
 def tambah(self)
 def ubah(self)
 def lihat(self)
 def hapus(self)
 def keluar(self)
 ```
-
-berikut program untuk menambah data:
 
 lalu saya mengisi setiap method dengan elemen-elemen nya
 
@@ -49,25 +47,28 @@ lalu saya mengisi setiap method dengan elemen-elemen nya
         mahasiswa[nama]=nim,nilaiTugas,nilaiUts,nilaiUas,nilaiAkhir
 
 lalu saya membuat sebuah looping
-
+```python
        while True:
         data = daftarNilai()
         print('\ntambah\t(1)\nubah\t(2)\nlihat\t(3)\nhapus\t(4)\nkeluar\t(5)')
         c = input("\nsilahkan masukan pilihan : ")
         print()
-  dan terakhir membuat fungsi if else untuk menjalankan method
+```
 
-            if (c=="1"):
-            data.tambah()
-        elif (c=="2"):
-            data.ubah()
-        elif (c=="3"):
-            data.lihat()
-        elif (c=="4"):
-            data.hapus()
-        else:
-            data.keluar()
-            break         
+Dan terakhir membuat fungsi if else untuk menjalankan method
+```python
+    if (c == "1"):
+        data.tambah()
+    elif (c == "2"):
+        data.ubah()
+    elif (c == "3"):
+        data.lihat()
+    elif (c == "4"):
+        data.hapus()
+    elif (c == "5"):
+        data.keluar()
+        break    
+```
 
 # output program
 
