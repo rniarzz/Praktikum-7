@@ -81,13 +81,14 @@ else:
 
 # output program
 
-ini adalah output apabila memilih tambah(1)
+ini adalah output apabila memilih tambah (1)
 
-<img width="201" alt="ri 1" src="https://user-images.githubusercontent.com/115542704/206483140-39549453-0508-4cce-bbb3-d7f73d897270.png">
+<img width="297" alt="r1" src="https://user-images.githubusercontent.com/115542704/206631985-7ed6f8b8-f580-4989-8749-174e4579e835.png">
 
-ini adalah output apabila memilih ubah(2)
+ini adalah output apabila memilih ubah (2)
 
-<img width="204" alt="ri 2" src="https://user-images.githubusercontent.com/115542704/206483199-e31314e6-d2ba-4110-9666-f82ce5f923c3.png">
+<img width="229" alt="r2" src="https://user-images.githubusercontent.com/115542704/206632264-37df1256-a3ee-4662-85a6-002f5dd6d76f.png">
+
 
 ini adalah output apabila memilih untuk tambah lagi
 
