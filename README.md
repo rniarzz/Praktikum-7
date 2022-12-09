@@ -37,37 +37,38 @@ def keluar(self)
 ```
 
 lalu saya mengisi setiap method dengan elemen-elemen nya
-
-        nama= input("masukan nama: ")
-        nim= input("masukan nim :")                                         
-        nilaiTugas= int(input("Masukkan Nilai Tugas: "))
-        nilaiUts= int(input("Masukkan Nilai UTS\t: "))            
-        nilaiUas= int(input("Masukkan Nilai UAS\t: "))             
-        nilaiAkhir= (30/100 * nilaiTugas) + (35/100 * nilaiUts) + (35/100 * nilaiUas)
-        mahasiswa[nama]=nim,nilaiTugas,nilaiUts,nilaiUas,nilaiAkhir
+```python
+nama= input("masukan nama: ")
+nim= input("masukan nim :")                                         
+nilaiTugas= int(input("Masukkan Nilai Tugas: "))
+nilaiUts= int(input("Masukkan Nilai UTS\t: "))            
+nilaiUas= int(input("Masukkan Nilai UAS\t: "))             
+nilaiAkhir= (30/100 * nilaiTugas) + (35/100 * nilaiUts) + (35/100 * nilaiUas)
+mahasiswa[nama]=nim,nilaiTugas,nilaiUts,nilaiUas,nilaiAkhir
+```
 
 lalu saya membuat sebuah looping
 ```python
-       while True:
-        data = daftarNilai()
-        print('\ntambah\t(1)\nubah\t(2)\nlihat\t(3)\nhapus\t(4)\nkeluar\t(5)')
-        c = input("\nsilahkan masukan pilihan : ")
-        print()
+while True:
+    data = daftarNilai()
+    print('\ntambah\t(1)\nubah\t(2)\nlihat\t(3)\nhapus\t(4)\nkeluar\t(5)')
+    c = input("\nsilahkan masukan pilihan : ")
+    print()
 ```
 
 Dan terakhir membuat fungsi if else untuk menjalankan method
 ```python
-    if (c == "1"):
-        data.tambah()
-    elif (c == "2"):
-        data.ubah()
-    elif (c == "3"):
-        data.lihat()
-    elif (c == "4"):
-        data.hapus()
-    elif (c == "5"):
-        data.keluar()
-        break    
+if (c == "1"):
+    data.tambah()
+elif (c == "2"):
+    data.ubah()
+elif (c == "3"):
+    data.lihat()
+elif (c == "4"):
+    data.hapus()
+elif (c == "5"):
+    data.keluar()
+    break    
 ```
 
 # output program
