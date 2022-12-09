@@ -71,6 +71,14 @@ elif (c == "5"):
     break    
 ```
 
+Dan saya juga menggunakan else di akhir program yang digunakan apabila salah memasukkan pilihan inputan
+Berikut programnya:
+```python
+else:
+    print()
+    print("Kode yang anda masukkan salah!")
+```
+
 # output program
 
 ini adalah output apabila memilih tambah(1)
