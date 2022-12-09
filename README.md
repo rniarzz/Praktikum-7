@@ -7,47 +7,47 @@
 
 ![soal](https://user-images.githubusercontent.com/115542704/206460646-4c089e2d-9d9c-427b-a326-d43c633e78d6.png)
 
-## diagram class
+## Diagram class
 
 ![diagramClass](https://user-images.githubusercontent.com/115542704/206462308-ab57022f-da40-422a-9e52-1c59252d2123.png)
 
-## flowchart
+## Flowchart
 
 ![flowchart (3)](https://user-images.githubusercontent.com/115542704/206462353-41fd2d95-2329-4f92-9403-e679c5bc1784.png)
 
-## program
+## Program
 
 pertama saya membuat sebuah class daftar nilai
-
-        class daftarNilai()
+```python
+class daftarNilai()
+```
 
 Lalu saya melanjutkan dengan membuat method method fungsinya
+```python
+def tambah(self)
+def ubah(self)
+def lihat(self)
+def hapus(self)
+def keluar(self)
+```
 
-            def tambah(self)
-        def ubah(self)
-        def lihat(self)
-        def hapus(self)
+lalu saya mengisi setiap method dengan elemen-elemen nya
 
-lalu saya mengisi setiap method dengan elemen elemen nya
-
-            nama= input("masukan nama: ")
+        nama= input("masukan nama: ")
         nim= input("masukan nim :")                                         
         nilaiTugas= int(input("Masukkan Nilai Tugas: "))
         nilaiUts= int(input("Masukkan Nilai UTS\t: "))            
         nilaiUas= int(input("Masukkan Nilai UAS\t: "))             
-        nilaiAkhir= (0.30 * nilaiTugas) + (0.35 * nilaiUts) + (0.35 * nilaiUas)
-        dt[nama]=nim,nilaiTugas,nilaiUts,nilaiUas,nilaiAkhir
+        nilaiAkhir= (30/100 * nilaiTugas) + (35/100 * nilaiUts) + (35/100 * nilaiUas)
+        mahasiswa[nama]=nim,nilaiTugas,nilaiUts,nilaiUas,nilaiAkhir
 
 lalu saya membuat sebuah looping
 
-        while True:
-        input('tambah   (1)
-            ubah     (2)
-            lihat    (3)
-            hapus    (4)
-            ')
-            c = input("\nsilahkan masukan pilihan : ")
-
+       while True:
+        data = daftarNilai()
+        print('\ntambah\t(1)\nubah\t(2)\nlihat\t(3)\nhapus\t(4)\nkeluar\t(5)')
+        c = input("\nsilahkan masukan pilihan : ")
+        print()
   dan terakhir membuat fungsi if else untuk menjalankan method
 
             if (c=="1"):
