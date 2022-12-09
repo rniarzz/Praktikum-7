@@ -89,12 +89,15 @@ ini adalah output apabila memilih ubah (2)
 
 <img width="229" alt="r2" src="https://user-images.githubusercontent.com/115542704/206632264-37df1256-a3ee-4662-85a6-002f5dd6d76f.png">
 
+berikut data yang sudah diubah
+
+<img width="428" alt="r22" src="https://user-images.githubusercontent.com/115542704/206632858-f11bfb84-7e54-4232-86fe-632e51c896fb.png">
 
 ini adalah output apabila memilih untuk tambah lagi
 
-<img width="203" alt="ri 3" src="https://user-images.githubusercontent.com/115542704/206483359-405e5d49-55bc-4332-a71b-0d0d3dc5cd1a.png">
+<img width="226" alt="r1 1" src="https://user-images.githubusercontent.com/115542704/206633055-4569f90b-0861-4eac-85e8-411aea622759.png">
 
-ini adalah output apabila memilih hapus(3)
+ini adalah output apabila memilih hapus (3)
 
 <img width="197" alt="ri 4" src="https://user-images.githubusercontent.com/115542704/206483433-e252c767-a030-45ed-9ce5-18db0ecc43d7.png">
 
