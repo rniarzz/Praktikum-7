@@ -17,7 +17,12 @@
 
 ## Program
 
-pertama saya membuat sebuah class daftar nilai
+pertama saya membuat dictionary terlebih dahulu untuk menampung data
+```python
+mahasiswa = {}
+```
+
+kemudian membuat sebuah class daftar nilai
 ```python
 class daftarNilai()
 ```
@@ -30,6 +35,8 @@ def lihat(self)
 def hapus(self)
 def keluar(self)
 ```
+
+berikut program untuk menambah data:
 
 lalu saya mengisi setiap method dengan elemen-elemen nya
 
