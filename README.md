@@ -109,13 +109,9 @@ berikut tampilan data yang telah terhapus
 
 <img width="418" alt="r4 1" src="https://user-images.githubusercontent.com/115542704/206633747-6f3e7e1a-97ec-4768-9418-f9c78b2e64c7.png">
 
-ini adalah output apabila memilih lihat (5)
+ini adalah output apabila memilih keluar (5)
 
-<img width="506" alt="ri 5" src="https://user-images.githubusercontent.com/115542704/206483485-44b5bb66-ffc6-4748-9f13-540e6a868a07.png">
-
-ni adalah output apabila memilih else
-
-<img width="221" alt="ri 6" src="https://user-images.githubusercontent.com/115542704/206483557-8eb6066b-c456-4244-b1e3-b9154bfb2302.png">
+<img width="233" alt="r5" src="https://user-images.githubusercontent.com/115542704/206634711-7843405a-c2a7-4a80-8428-b9cb22c58324.png">
 
 # SEKIAN TERIMAKASIH
 
