@@ -97,11 +97,19 @@ ini adalah output apabila memilih untuk tambah lagi
 
 <img width="226" alt="r1 1" src="https://user-images.githubusercontent.com/115542704/206633055-4569f90b-0861-4eac-85e8-411aea622759.png">
 
-ini adalah output apabila memilih hapus (3)
+ini adalah output apabila memilih lihat (3)
 
-<img width="197" alt="ri 4" src="https://user-images.githubusercontent.com/115542704/206483433-e252c767-a030-45ed-9ce5-18db0ecc43d7.png">
+<img width="422" alt="r3" src="https://user-images.githubusercontent.com/115542704/206634080-2e46eb8d-81f9-4799-9c38-eb5d04703c08.png">
 
-ini adalah output apabila memilih lihat (4)
+ini adalah output apabila memilih hapus (4)
+
+<img width="201" alt="r4" src="https://user-images.githubusercontent.com/115542704/206633372-daefd529-009d-46e8-be7a-b5d06687388a.png">
+
+berikut tampilan data yang telah terhapus
+
+<img width="418" alt="r4 1" src="https://user-images.githubusercontent.com/115542704/206633747-6f3e7e1a-97ec-4768-9418-f9c78b2e64c7.png">
+
+ini adalah output apabila memilih lihat (5)
 
 <img width="506" alt="ri 5" src="https://user-images.githubusercontent.com/115542704/206483485-44b5bb66-ffc6-4748-9f13-540e6a868a07.png">
 
