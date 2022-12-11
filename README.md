@@ -27,7 +27,7 @@ kemudian membuat sebuah class daftar nilai
 class daftarNilai()
 ```
 
-Lalu saya melanjutkan dengan membuat method method fungsinya sebagai berikut
+Lalu saya melanjutkan dengan membuat method-method fungsinya sebagai berikut
 ```
 def tambah(self)
 def ubah(self)
@@ -36,7 +36,7 @@ def hapus(self)
 def keluar(self)
 ```
 
-lalu saya mengisi setiap method dengan elemen-elemen nya
+lalu saya mengisi setiap method dengan elemen-elemennya
 ```python
 nama= input("masukan nama: ")
 nim= input("masukan nim :")                                         
@@ -56,7 +56,7 @@ while True:
     print()
 ```
 
-Dan terakhir membuat fungsi if else untuk menjalankan method
+Kemudian membuat fungsi if else untuk menjalankan method
 ```python
 if (c == "1"):
     data.tambah()
@@ -71,7 +71,7 @@ elif (c == "5"):
     break    
 ```
 
-Dan saya juga menggunakan else di akhir program yang digunakan apabila salah memasukkan pilihan inputan
+Dan  terakhir saya juga menggunakan else di akhir program yang digunakan apabila salah memasukkan pilihan inputan
 Berikut programnya:
 ```python
 else:
@@ -81,35 +81,35 @@ else:
 
 # output program
 
-ini adalah output apabila memilih tambah (1)
+- ini adalah output apabila memilih tambah (1)
 
 <img width="297" alt="r1" src="https://user-images.githubusercontent.com/115542704/206631985-7ed6f8b8-f580-4989-8749-174e4579e835.png">
 
-ini adalah output apabila memilih untuk tambah lagi
+- ini adalah output apabila memilih untuk tambah lagi
 
 <img width="226" alt="r1 1" src="https://user-images.githubusercontent.com/115542704/206633055-4569f90b-0861-4eac-85e8-411aea622759.png">
 
-ini adalah output apabila memilih ubah (2)
+- ini adalah output apabila memilih ubah (2)
 
 <img width="229" alt="r2" src="https://user-images.githubusercontent.com/115542704/206632264-37df1256-a3ee-4662-85a6-002f5dd6d76f.png">
 
-berikut data yang sudah diubah
+- berikut data yang sudah diubah
 
 <img width="428" alt="r22" src="https://user-images.githubusercontent.com/115542704/206632858-f11bfb84-7e54-4232-86fe-632e51c896fb.png">
 
-ini adalah output apabila memilih lihat (3)
+- ini adalah output apabila memilih lihat (3)
 
 <img width="422" alt="r3" src="https://user-images.githubusercontent.com/115542704/206634080-2e46eb8d-81f9-4799-9c38-eb5d04703c08.png">
 
-ini adalah output apabila memilih hapus (4)
+- ini adalah output apabila memilih hapus (4)
 
 <img width="201" alt="r4" src="https://user-images.githubusercontent.com/115542704/206633372-daefd529-009d-46e8-be7a-b5d06687388a.png">
 
-berikut tampilan data yang telah terhapus
+- berikut tampilan data yang telah terhapus
 
 <img width="418" alt="r4 1" src="https://user-images.githubusercontent.com/115542704/206633747-6f3e7e1a-97ec-4768-9418-f9c78b2e64c7.png">
 
-ini adalah output apabila memilih keluar (5)
+- ini adalah output apabila memilih keluar (5)
 
 <img width="233" alt="r5" src="https://user-images.githubusercontent.com/115542704/206634711-7843405a-c2a7-4a80-8428-b9cb22c58324.png">
 
